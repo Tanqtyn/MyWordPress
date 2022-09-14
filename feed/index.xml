@@ -10,7 +10,7 @@
 <channel>
 	<title>Game Zone</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://</link>
+	<link>https://tanqtyn.github.io/MyWordPress</link>
 	<description>Game Portal &#38; Blog Wordpress Theme</description>
 	<lastBuildDate>Wed, 14 Sep 2022 01:38:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title></title>
-		<link>https:///2022/09/07/demo/</link>
-					<comments>https:///2022/09/07/demo/#respond</comments>
+		<link>https://tanqtyn.github.io/MyWordPress/2022/09/07/demo/</link>
+					<comments>https://tanqtyn.github.io/MyWordPress/2022/09/07/demo/#respond</comments>
 		
 		<dc:creator><![CDATA[TranQuangTuyen]]></dc:creator>
 		<pubDate>Wed, 07 Sep 2022 01:54:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https:///?p=272</guid>
+		<guid isPermaLink="false">https://tanqtyn.github.io/MyWordPress/?p=272</guid>
 
 					<description><![CDATA[Newsletter Tom Clancy&#8217;s The Division Review Comic Store Battlefield 1 Trailer Call of Duty WWII Review Tomb Raider 2 Review Recent News The Witcher 3: Blood &#038; Wine — Best Endings PC, X-box, Playstation Sign up for Giveaway of Uncharted 4 Playstation Early Black Friday deals at Best Buy, Xbox One X Playstation Popular Articles...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="272" class="elementor elementor-272">
@@ -38,7 +38,7 @@
 								<div class="elementor-element elementor-element-879254a elementor-widget elementor-widget-image" data-id="879254a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.3 - 29-08-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="182" height="23" src="https:///wp-content/uploads/2022/09/logo-1-1.webp" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="182" height="23" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/logo-1-1.webp" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -46,100 +46,100 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4f4bb3c elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="4f4bb3c" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https:///wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-4f4bb3c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-217"><a href="https:///home-1/" class="elementor-item">Home</a>
+			<link rel="stylesheet" href="https://tanqtyn.github.io/MyWordPress/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-4f4bb3c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-217"><a href="https://tanqtyn.github.io/MyWordPress/home-1/" class="elementor-item">Home</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https:///home-1/" class="elementor-sub-item">Home 1</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https:///home-2/" class="elementor-sub-item">Home 2</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https:///home-3/" class="elementor-sub-item">Home 3</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://tanqtyn.github.io/MyWordPress/home-1/" class="elementor-sub-item">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https://tanqtyn.github.io/MyWordPress/home-2/" class="elementor-sub-item">Home 2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https://tanqtyn.github.io/MyWordPress/home-3/" class="elementor-sub-item">Home 3</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-218"><a href="https:///about-us/" class="elementor-item">Features</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-218"><a href="https://tanqtyn.github.io/MyWordPress/about-us/" class="elementor-item">Features</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https:///typography/" class="elementor-sub-item">Typography</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https:///shortcodes/" class="elementor-sub-item">Shortcodes</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https:///gallery/" class="elementor-sub-item">Gallery</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https:///wishlist/" class="elementor-sub-item">Events</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https:///contacts/" class="elementor-sub-item">Contacts</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https:///privacy-policy/" class="elementor-sub-item">Privacy Policy</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https:///service-plus/" class="elementor-sub-item">Service Plus</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https://tanqtyn.github.io/MyWordPress/typography/" class="elementor-sub-item">Typography</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://tanqtyn.github.io/MyWordPress/shortcodes/" class="elementor-sub-item">Shortcodes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://tanqtyn.github.io/MyWordPress/gallery/" class="elementor-sub-item">Gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://tanqtyn.github.io/MyWordPress/wishlist/" class="elementor-sub-item">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://tanqtyn.github.io/MyWordPress/contacts/" class="elementor-sub-item">Contacts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://tanqtyn.github.io/MyWordPress/privacy-policy/" class="elementor-sub-item">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://tanqtyn.github.io/MyWordPress/service-plus/" class="elementor-sub-item">Service Plus</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="https:///about-us/" class="elementor-item">About Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-220"><a href="https:///all-posts/" class="elementor-item">New</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="https://tanqtyn.github.io/MyWordPress/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-220"><a href="https://tanqtyn.github.io/MyWordPress/all-posts/" class="elementor-item">New</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https:///all-posts/" class="elementor-sub-item">All Posts</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-558"><a href="https:///cart/" class="elementor-sub-item">Classic Style</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://tanqtyn.github.io/MyWordPress/all-posts/" class="elementor-sub-item">All Posts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-558"><a href="https://tanqtyn.github.io/MyWordPress/cart/" class="elementor-sub-item">Classic Style</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="https:///blog-classic-2-columns/" class="elementor-sub-item">Blog Classic 2 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https:///blog-classic-3-columns/" class="elementor-sub-item">Blog Classic 3 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="https://tanqtyn.github.io/MyWordPress/blog-classic-2-columns/" class="elementor-sub-item">Blog Classic 2 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://tanqtyn.github.io/MyWordPress/blog-classic-3-columns/" class="elementor-sub-item">Blog Classic 3 Columns</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-559"><a href="https:///shop/" class="elementor-sub-item">Portfolio</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-559"><a href="https://tanqtyn.github.io/MyWordPress/shop/" class="elementor-sub-item">Portfolio</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https:///blog-portfolio-2-columns/" class="elementor-sub-item">Blog Portfolio 2 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="https:///blog-portfolio-3-columns/" class="elementor-sub-item">Blog Portfolio 3 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://tanqtyn.github.io/MyWordPress/blog-portfolio-2-columns/" class="elementor-sub-item">Blog Portfolio 2 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="https://tanqtyn.github.io/MyWordPress/blog-portfolio-3-columns/" class="elementor-sub-item">Blog Portfolio 3 Columns</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-560"><a href="https:///sample-page/" class="elementor-sub-item">Chess Style</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-560"><a href="https://tanqtyn.github.io/MyWordPress/sample-page/" class="elementor-sub-item">Chess Style</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https:///blog-chess-2-columns/" class="elementor-sub-item">Blog Chess 2 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https:///blog-chess-4-columns/" class="elementor-sub-item">Blog Chess 4 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https:///blog-chess-6-columns/" class="elementor-sub-item">Blog Chess 6 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https://tanqtyn.github.io/MyWordPress/blog-chess-2-columns/" class="elementor-sub-item">Blog Chess 2 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https://tanqtyn.github.io/MyWordPress/blog-chess-4-columns/" class="elementor-sub-item">Blog Chess 4 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://tanqtyn.github.io/MyWordPress/blog-chess-6-columns/" class="elementor-sub-item">Blog Chess 6 Columns</a></li>
 	</ul>
 </li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https:///all-posts/" class="elementor-item">Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https://tanqtyn.github.io/MyWordPress/all-posts/" class="elementor-item">Store</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-4f4bb3c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-217"><a href="https:///home-1/" class="elementor-item" tabindex="-1">Home</a>
+				<ul id="menu-2-4f4bb3c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-217"><a href="https://tanqtyn.github.io/MyWordPress/home-1/" class="elementor-item" tabindex="-1">Home</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https:///home-1/" class="elementor-sub-item" tabindex="-1">Home 1</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https:///home-2/" class="elementor-sub-item" tabindex="-1">Home 2</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https:///home-3/" class="elementor-sub-item" tabindex="-1">Home 3</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://tanqtyn.github.io/MyWordPress/home-1/" class="elementor-sub-item" tabindex="-1">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https://tanqtyn.github.io/MyWordPress/home-2/" class="elementor-sub-item" tabindex="-1">Home 2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https://tanqtyn.github.io/MyWordPress/home-3/" class="elementor-sub-item" tabindex="-1">Home 3</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-218"><a href="https:///about-us/" class="elementor-item" tabindex="-1">Features</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-218"><a href="https://tanqtyn.github.io/MyWordPress/about-us/" class="elementor-item" tabindex="-1">Features</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https:///typography/" class="elementor-sub-item" tabindex="-1">Typography</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https:///shortcodes/" class="elementor-sub-item" tabindex="-1">Shortcodes</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https:///gallery/" class="elementor-sub-item" tabindex="-1">Gallery</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https:///wishlist/" class="elementor-sub-item" tabindex="-1">Events</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https:///contacts/" class="elementor-sub-item" tabindex="-1">Contacts</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https:///privacy-policy/" class="elementor-sub-item" tabindex="-1">Privacy Policy</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https:///service-plus/" class="elementor-sub-item" tabindex="-1">Service Plus</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https://tanqtyn.github.io/MyWordPress/typography/" class="elementor-sub-item" tabindex="-1">Typography</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://tanqtyn.github.io/MyWordPress/shortcodes/" class="elementor-sub-item" tabindex="-1">Shortcodes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://tanqtyn.github.io/MyWordPress/gallery/" class="elementor-sub-item" tabindex="-1">Gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://tanqtyn.github.io/MyWordPress/wishlist/" class="elementor-sub-item" tabindex="-1">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://tanqtyn.github.io/MyWordPress/contacts/" class="elementor-sub-item" tabindex="-1">Contacts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://tanqtyn.github.io/MyWordPress/privacy-policy/" class="elementor-sub-item" tabindex="-1">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://tanqtyn.github.io/MyWordPress/service-plus/" class="elementor-sub-item" tabindex="-1">Service Plus</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="https:///about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-220"><a href="https:///all-posts/" class="elementor-item" tabindex="-1">New</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="https://tanqtyn.github.io/MyWordPress/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-220"><a href="https://tanqtyn.github.io/MyWordPress/all-posts/" class="elementor-item" tabindex="-1">New</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https:///all-posts/" class="elementor-sub-item" tabindex="-1">All Posts</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-558"><a href="https:///cart/" class="elementor-sub-item" tabindex="-1">Classic Style</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://tanqtyn.github.io/MyWordPress/all-posts/" class="elementor-sub-item" tabindex="-1">All Posts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-558"><a href="https://tanqtyn.github.io/MyWordPress/cart/" class="elementor-sub-item" tabindex="-1">Classic Style</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="https:///blog-classic-2-columns/" class="elementor-sub-item" tabindex="-1">Blog Classic 2 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https:///blog-classic-3-columns/" class="elementor-sub-item" tabindex="-1">Blog Classic 3 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="https://tanqtyn.github.io/MyWordPress/blog-classic-2-columns/" class="elementor-sub-item" tabindex="-1">Blog Classic 2 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://tanqtyn.github.io/MyWordPress/blog-classic-3-columns/" class="elementor-sub-item" tabindex="-1">Blog Classic 3 Columns</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-559"><a href="https:///shop/" class="elementor-sub-item" tabindex="-1">Portfolio</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-559"><a href="https://tanqtyn.github.io/MyWordPress/shop/" class="elementor-sub-item" tabindex="-1">Portfolio</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https:///blog-portfolio-2-columns/" class="elementor-sub-item" tabindex="-1">Blog Portfolio 2 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="https:///blog-portfolio-3-columns/" class="elementor-sub-item" tabindex="-1">Blog Portfolio 3 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://tanqtyn.github.io/MyWordPress/blog-portfolio-2-columns/" class="elementor-sub-item" tabindex="-1">Blog Portfolio 2 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="https://tanqtyn.github.io/MyWordPress/blog-portfolio-3-columns/" class="elementor-sub-item" tabindex="-1">Blog Portfolio 3 Columns</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-560"><a href="https:///sample-page/" class="elementor-sub-item" tabindex="-1">Chess Style</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-560"><a href="https://tanqtyn.github.io/MyWordPress/sample-page/" class="elementor-sub-item" tabindex="-1">Chess Style</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https:///blog-chess-2-columns/" class="elementor-sub-item" tabindex="-1">Blog Chess 2 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https:///blog-chess-4-columns/" class="elementor-sub-item" tabindex="-1">Blog Chess 4 Columns</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https:///blog-chess-6-columns/" class="elementor-sub-item" tabindex="-1">Blog Chess 6 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https://tanqtyn.github.io/MyWordPress/blog-chess-2-columns/" class="elementor-sub-item" tabindex="-1">Blog Chess 2 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https://tanqtyn.github.io/MyWordPress/blog-chess-4-columns/" class="elementor-sub-item" tabindex="-1">Blog Chess 4 Columns</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://tanqtyn.github.io/MyWordPress/blog-chess-6-columns/" class="elementor-sub-item" tabindex="-1">Blog Chess 6 Columns</a></li>
 	</ul>
 </li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https:///all-posts/" class="elementor-item" tabindex="-1">Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https://tanqtyn.github.io/MyWordPress/all-posts/" class="elementor-item" tabindex="-1">Store</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -185,7 +185,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f76fc35 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f76fc35" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https:///wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+			<link rel="stylesheet" href="https://tanqtyn.github.io/MyWordPress/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
@@ -208,9 +208,9 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7fe5cab elementor-cta--skin-cover elementor-cta--valign-middle elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="7fe5cab" data-element_type="widget" data-widget_type="call-to-action.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https:///wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
+			<link rel="stylesheet" href="https://tanqtyn.github.io/MyWordPress/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/1-copyright-760x567-4.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/1-copyright-760x567-4.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -240,7 +240,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/1-copyright-760x567-1-2.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/1-copyright-760x567-1-2.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -259,7 +259,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/2-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/2-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -278,7 +278,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/3-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/3-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -310,7 +310,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -332,7 +332,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -352,7 +352,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -390,7 +390,7 @@
 							</div>
 			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-2491" aria-expanded="false"></div>
-					<div id="elementor-tab-content-2491" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2491" tabindex="0" hidden="false"><p><strong><img loading="lazy" src="https:///wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg" alt="" width="760" height="567"></strong></p>
+					<div id="elementor-tab-content-2491" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2491" tabindex="0" hidden="false"><p><strong><img loading="lazy" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg" alt="" width="760" height="567"></strong></p>
 <p><strong>The Witcher 3: Blood &amp; Wine — Best Endings</strong></p>
 <hr>
 <p><strong>Early Black Friday deals at Best Buy, Xbox One X bundles and more gaming deals</strong></p>
@@ -429,7 +429,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -453,7 +453,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -542,7 +542,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/1-copyright-760x567-2-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/1-copyright-760x567-2-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -573,9 +573,9 @@
 							</div>
 			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-1211" aria-expanded="false">PLAYSTATION</div>
-					<div id="elementor-tab-content-1211" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1211" tabindex="0" hidden="false"><p><strong><img loading="lazy" class="alignleft wp-image-303" src="https:///wp-content/uploads/2022/09/video_post-copyright-760x567-1.jpg" alt="" width="80" height="60" />The Witcher 3: Blood &amp; Wine &#8211; Best Endings</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https:///wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" />Sign up for Give Away of Uncharted 4</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-283" src="https:///wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg" alt="" width="80" height="60" />Early Black Friday deals at Best Buy, Xbox One X</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-493" src="https:///wp-content/uploads/2022/09/post-4-copyright-760x567-1.jpg" alt="" width="80" height="60" />Crytek’s Warface is trying to get in on the battle</strong></p><hr /><p class="sc_layouts_title_caption"><strong><img loading="lazy" class="alignleft wp-image-494" src="https:///wp-content/uploads/2022/09/post-14-copyright-760x567-1.jpg" alt="" width="80" height="60" />Early deals at Best Buy Black Friday Xbox Bundle</strong></p><hr /><p><strong>VIEW MORE TOP GAMES </strong></p></div>
+					<div id="elementor-tab-content-1211" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1211" tabindex="0" hidden="false"><p><strong><img loading="lazy" class="alignleft wp-image-303" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/video_post-copyright-760x567-1.jpg" alt="" width="80" height="60" />The Witcher 3: Blood &amp; Wine &#8211; Best Endings</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" />Sign up for Give Away of Uncharted 4</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-283" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg" alt="" width="80" height="60" />Early Black Friday deals at Best Buy, Xbox One X</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-493" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-4-copyright-760x567-1.jpg" alt="" width="80" height="60" />Crytek’s Warface is trying to get in on the battle</strong></p><hr /><p class="sc_layouts_title_caption"><strong><img loading="lazy" class="alignleft wp-image-494" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-14-copyright-760x567-1.jpg" alt="" width="80" height="60" />Early deals at Best Buy Black Friday Xbox Bundle</strong></p><hr /><p><strong>VIEW MORE TOP GAMES </strong></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1212" aria-expanded="false">X-BOX</div>
-					<div id="elementor-tab-content-1212" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1212" tabindex="0" hidden="hidden"><p><strong><img loading="lazy" class="alignleft wp-image-283" src="https:///wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg" alt="" width="80" height="60" /> Top 10 Car Addons for GTA San Andreas</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https:///wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" /></strong></p><p><strong>Uncharted 4: A Thief’s End- Best PS4 Game 2017</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-499" src="https:///wp-content/uploads/2022/09/post-5-copyright-760x567-1.jpg" alt="" width="80" height="60" /> Why Assassin’s Creed IV Was the Last Good Game from Ubisoft</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-500" src="https:///wp-content/uploads/2022/09/post-6-copyright-760x567-1.jpg" alt="" width="80" height="60" /> The Winner for Drama, Story and Graphics</strong></p><hr /><p><strong>VIEW MORE TOP GAMES</strong></p></div>
+					<div id="elementor-tab-content-1212" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1212" tabindex="0" hidden="hidden"><p><strong><img loading="lazy" class="alignleft wp-image-283" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg" alt="" width="80" height="60" /> Top 10 Car Addons for GTA San Andreas</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" /></strong></p><p><strong>Uncharted 4: A Thief’s End- Best PS4 Game 2017</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-499" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-5-copyright-760x567-1.jpg" alt="" width="80" height="60" /> Why Assassin’s Creed IV Was the Last Good Game from Ubisoft</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-500" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-6-copyright-760x567-1.jpg" alt="" width="80" height="60" /> The Winner for Drama, Story and Graphics</strong></p><hr /><p><strong>VIEW MORE TOP GAMES</strong></p></div>
 							</div>
 		</div>
 				</div>
@@ -596,7 +596,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -618,7 +618,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -640,7 +640,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-3-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -694,7 +694,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/video_post-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/video_post-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -716,7 +716,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-17-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-17-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -734,7 +734,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-23-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-23-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -752,7 +752,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-24-copyright.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-24-copyright.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -806,7 +806,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-25-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-25-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -824,7 +824,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-13-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-13-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -842,7 +842,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-9-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-9-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -860,7 +860,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-26-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-26-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -878,7 +878,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https:///wp-content/uploads/2022/09/post-11-copyright-760x567-1.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-11-copyright-760x567-1.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -920,16 +920,16 @@
 							</div>
 			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-9301" aria-expanded="false">LATEST</div>
-					<div id="elementor-tab-content-9301" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-9301" tabindex="0" hidden="false"><p><strong><img loading="lazy" class="alignleft wp-image-247" src="https:///wp-content/uploads/2022/09/1-copyright-760x567-2.jpg" alt="" width="80" height="60" /></strong></p><p><strong>Tom Clancy’s The Division Review</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-281" src="https:///wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg" alt="" width="80" height="60" />The Witcher 3: Blood &amp; Wine &#8211; Best Endings</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-257" src="https:///wp-content/uploads/2022/09/2-copyright-760x567-3.jpg" alt="" width="80" height="60" />Call of Duty WWII Review</strong></p><p> </p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https:///wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" />Sign up for Give Away of Uncharted 4</strong></p><hr /><p class="sc_layouts_title_caption"><strong>VIEW MORE TOP GAMES</strong></p></div>
+					<div id="elementor-tab-content-9301" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-9301" tabindex="0" hidden="false"><p><strong><img loading="lazy" class="alignleft wp-image-247" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/1-copyright-760x567-2.jpg" alt="" width="80" height="60" /></strong></p><p><strong>Tom Clancy’s The Division Review</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-281" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg" alt="" width="80" height="60" />The Witcher 3: Blood &amp; Wine &#8211; Best Endings</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-257" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/2-copyright-760x567-3.jpg" alt="" width="80" height="60" />Call of Duty WWII Review</strong></p><p> </p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" />Sign up for Give Away of Uncharted 4</strong></p><hr /><p class="sc_layouts_title_caption"><strong>VIEW MORE TOP GAMES</strong></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-9302" aria-expanded="false">TRENDING</div>
-					<div id="elementor-tab-content-9302" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-9302" tabindex="0" hidden="hidden"><p><strong><img loading="lazy" class="alignleft wp-image-247" src="https:///wp-content/uploads/2022/09/1-copyright-760x567-2.jpg" alt="" width="80" height="60" /></strong></p><p><strong>Tom Clancy’s The Division Review</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-281" src="https:///wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg" alt="" width="80" height="60" />The Witcher 3: Blood &amp; Wine &#8211; Best Endings</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https:///wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" />Sign up for Give Away of Uncharted 4</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-257" src="https:///wp-content/uploads/2022/09/2-copyright-760x567-3.jpg" alt="" width="80" height="60" />Call of Duty WWII Review </strong></p><hr /><p class="sc_layouts_title_caption"><strong>VIEW MORE TOP GAMES</strong></p></div>
+					<div id="elementor-tab-content-9302" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-9302" tabindex="0" hidden="hidden"><p><strong><img loading="lazy" class="alignleft wp-image-247" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/1-copyright-760x567-2.jpg" alt="" width="80" height="60" /></strong></p><p><strong>Tom Clancy’s The Division Review</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-281" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-1_new-copyright-760x567-1.jpg" alt="" width="80" height="60" />The Witcher 3: Blood &amp; Wine &#8211; Best Endings</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-282" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/post-2-copyright-760x567-1.jpg" alt="" width="80" height="60" />Sign up for Give Away of Uncharted 4</strong></p><hr /><p><strong><img loading="lazy" class="alignleft wp-image-257" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/2-copyright-760x567-3.jpg" alt="" width="80" height="60" />Call of Duty WWII Review </strong></p><hr /><p class="sc_layouts_title_caption"><strong>VIEW MORE TOP GAMES</strong></p></div>
 							</div>
 		</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-a5ac22a elementor-widget elementor-widget-image" data-id="a5ac22a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="300" height="250" src="https:///wp-content/uploads/2022/09/img-3-copyright.webp" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="300" height="250" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/img-3-copyright.webp" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -959,7 +959,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-96b1931 elementor-widget elementor-widget-image" data-id="96b1931" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="370" height="370" src="https:///wp-content/uploads/2022/09/9-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="370" height="370" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/9-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-719f33c elementor-widget elementor-widget-text-editor" data-id="719f33c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -971,7 +971,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7db4f49 elementor-widget elementor-widget-image" data-id="7db4f49" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="370" height="370" src="https:///wp-content/uploads/2022/09/11-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="370" height="370" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/11-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-d991a7e elementor-widget elementor-widget-text-editor" data-id="d991a7e" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -983,7 +983,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b84b93d elementor-widget elementor-widget-image" data-id="b84b93d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="370" height="370" src="https:///wp-content/uploads/2022/09/10-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="370" height="370" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/10-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-2a8f2a1 elementor-widget elementor-widget-text-editor" data-id="2a8f2a1" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -995,7 +995,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-113b62d elementor-widget elementor-widget-image" data-id="113b62d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="370" height="370" src="https:///wp-content/uploads/2022/09/12-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="370" height="370" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/12-copyright-370x370-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-c88535d elementor-widget elementor-widget-text-editor" data-id="c88535d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -1011,7 +1011,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f213a5c elementor-widget elementor-widget-image" data-id="f213a5c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="182" height="23" src="https:///wp-content/uploads/2022/09/logo-1-1.webp" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="182" height="23" src="https://tanqtyn.github.io/MyWordPress/wp-content/uploads/2022/09/logo-1-1.webp" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-be44663 elementor-widget elementor-widget-text-editor" data-id="be44663" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -1084,7 +1084,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https:///2022/09/07/demo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tanqtyn.github.io/MyWordPress/2022/09/07/demo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
